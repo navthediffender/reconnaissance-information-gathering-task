@@ -1,2 +1,1 @@
-# penetration-testing-capstone-basic-pentesting-1
-Penetration testing lab project using Kali Linux, Nmap, Metasploit, and Linux CLI tools.
+This project documents a 4-stage penetration test against a vulnerable lab virtual machine. It demonstrates reconnaissance, enumeration, vulnerability identification, exploitation of a known ProFTPD backdoor, and structured reporting using Kali Linux, Nmap, Metasploit, and Linux CLI tools.
